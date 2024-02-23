@@ -1,3 +1,4 @@
-HOW TO START?
--npm install
--npm run dev
+<h2>HOW TO START:</h2>
+
+- <b>npm install</b>
+- <b>npm run dev</b>
